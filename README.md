@@ -1,5 +1,5 @@
-# Yilan-Fare-Yakalamaca-Oyunu
-Yılandan kaçan farenin hayatta kalma mücadelesine dayalı bir oyun
+# Yilan Fare Yakalamaca Oyunu
+#### Yılandan kaçan farenin hayatta kalma mücadelesine dayalı bir oyun
 
 
 
