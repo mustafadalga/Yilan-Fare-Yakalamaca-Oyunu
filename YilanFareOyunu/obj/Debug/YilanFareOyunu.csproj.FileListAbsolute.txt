@@ -1,0 +1,55 @@
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe.config
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\bin\Debug\YilanFareOyunu.pdb
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\obj\Debug\YilanFareOyunu.YilanFareOyunu.resources
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\obj\Debug\YilanFareOyunu.Properties.Resources.resources
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\obj\Debug\YilanFareOyunu.csproj.GenerateResource.cache
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\obj\Debug\YilanFareOyunu.csproj.CoreCompileInputs.cache
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\obj\Debug\YilanFareOyunu.exe
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\obj\Debug\YilanFareOyunu.pdb
+F:\Github C#\YilanFareOyunu\YilanFareOyunu\obj\Debug\YilanFareOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe.config
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\bin\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.YilanFareOyunu.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.Properties.Resources.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.csproj.GenerateResource.Cache
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe.config
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\bin\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.Properties.Resources.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.csproj.GenerateResource.Cache
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.OyunHakkinda.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.OyunGelistiricisiHakkinda.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.YilanFareOyunu.resources
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe.config
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\bin\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.OyunGelistiricisiHakkinda.resources
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.OyunHakkinda.resources
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.YilanFareOyunu.resources
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.Properties.Resources.resources
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-2\YilanFareOyunu\obj\Debug\YilanFareOyunu.csproj.GenerateResource.Cache
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-3\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe.config
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-3\YilanFareOyunu\obj\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\Yılan-Fare Oyunu\YilanFareOyunu-08.04.2019-3\YilanFareOyunu\obj\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe.config
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\bin\Debug\YilanFareOyunu.exe
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\bin\Debug\YilanFareOyunu.pdb
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.OyunGelistiricisiHakkinda.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.OyunHakkinda.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.YilanFareOyunu.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.Properties.Resources.resources
+C:\Users\Liduma\Desktop\YilanFareOyunu10.04.2019\YilanFareOyunu\obj\Debug\YilanFareOyunu.csproj.GenerateResource.Cache
